@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby '2.7.4'
+gem 'colorize'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
+gem 'sinatra'
+gem 'shotgun'
+gem 'csv'
+gem 'open-uri'
